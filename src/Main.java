@@ -101,6 +101,7 @@ public class Main {
         int differenceMasha = PayMashaafter % PayMashabefore;
         int differenceDenis = PayDenisafter % PayDenisbefore;
         int differenceKris = PayKristinaafter % PayKristinabefore;
+
         System.out.println("Маша теперь получает " + PayMashaafter + " рублей. Годовой доход вырос на " + differenceMasha + " рублей");
         System.out.println("Денис теперь получает " + PayDenisafter + " рублей. Годовой доход вырос на " + differenceDenis + " рублей");
         System.out.println("Кристина теперь получает " + PayKristinaafter + " рублей. Годовой доход вырос на " + differenceKris + " рублей");
